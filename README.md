@@ -1,2 +1,14 @@
-# Devops_Tutorial
-Devops Tutorial with Real Time Projects
+# Devops Tutorial with Real Time Projects
+- Git & GitHub
+- Maven
+- Jenkins
+- SonarQube
+- OWASP
+- Trivy
+- Ansible
+- Docker
+- Kubernetes
+- Nagios
+- Chef
+- Nexus
+- Terraform
